@@ -7,6 +7,7 @@ This repository contains a SystemVerilog verification testbench for an SPI (Seri
 - [Modules](#modules)
 - [Testbench Execution](#testbench-execution)
 - [Simulation](#simulation)
+- [EDA Playground Link](#EDA-Playground-Link)
 
 ## Modules
 
@@ -55,4 +56,8 @@ The transaction class defines the data structure representing SPI transactions. 
 The testbench is designed for simulation using SystemVerilog simulation tools. The testbench produces a VCD (Value Change Dump) file for waveform analysis.
 
 <img src="https://github.com/satwikkamath/SPI_Master_Verification/assets/107809929/63676325-e40a-4d04-9960-1810fede2663">
+
+## EDA Playground Link
+
+[Click Here](https://edaplayground.com/x/SDxE)
 
